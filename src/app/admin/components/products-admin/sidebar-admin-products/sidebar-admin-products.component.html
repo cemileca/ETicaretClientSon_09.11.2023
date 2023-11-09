@@ -1,0 +1,7 @@
+<mat-drawer-container class="example-container" style="margin: 5px; ">
+    <mat-drawer mode="side" opened
+        style="background-color:hsl(192, 31%, 79%); width: 300px; height: 500px;"><app-form-field-admin-products
+            (createdProduct)="createdProduct($event)"></app-form-field-admin-products></mat-drawer>
+    <mat-drawer-content
+        style="background-color: hsl(192, 31%, 79%); height:500px;"><app-table-admin-products></app-table-admin-products></mat-drawer-content>
+</mat-drawer-container>

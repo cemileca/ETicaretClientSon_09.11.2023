@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\admin",
+    "\\src\\app\\admin\\components",
+    "\\src\\app\\admin\\components\\products-admin",
+    "\\src\\app\\admin\\components\\products-admin\\form-field-admin-products",
+    "\\src\\app\\directives",
+    "\\src\\app\\directives\\admin"
+  ],
+  "SelectedNode": "\\src\\app\\directives\\admin\\delete.directive.ts",
+  "PreviewInSolutionExplorer": false
+}
